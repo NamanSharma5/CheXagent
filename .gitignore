@@ -1,3 +1,10 @@
+# models
+.cache
+.tuned_model
+
+# model inspection
+model_inspection/embeddings
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 simcse/__pycache__/
@@ -42,13 +49,13 @@ htmlcov/
 .nox/
 .coverage
 .coverage.*
-.cache
 nosetests.xml
 coverage.xml
 *.cover
 *.py,cover
 .hypothesis/
 .pytest_cache/
+
 
 # Translations
 *.mo
